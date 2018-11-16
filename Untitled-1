@@ -1,0 +1,9 @@
+
+
+        <p>Picture icon on a button:
+                                <button type="button" onclick="toggleVisibility('menu1');" class="btn btn-default btn-sm">
+                                  <span class="glyphicon glyphicon-picture">
+                                      <a href="#"  class="fa fa-search" ></a>
+                                  </span> Picture
+                                </button>
+                              </p>
